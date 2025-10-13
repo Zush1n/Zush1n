@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Yami</h1>
-<h3 align="center">Developer → Aspiring Red Teamer | Creative Problem Solver</h3>
+<h3 align="center">Developer →  Red Teamer | Creative Problem Solver</h3>
 
 ---
 
@@ -8,8 +8,8 @@ I began as a full-stack web developer and now I'm focused on **offensive securit
 
 - 🔭 Currently building: **offensive tooling & recon scripts** (Python)
 - 🌱 Learning: advanced exploitation, post-exploitation, and threat emulation
-- 🧩 Labs: TryHackMe, Hack The Box, VulnHub
-- 📫 Reach me: **yamihego99@gmail.com**
+- 🧩 Labs: TryHackMe, Hack The Box
+- 📫 Reach me: 𝘕𝘰 𝘪𝘯𝘧𝘰
 
 ---
 
