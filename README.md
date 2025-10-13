@@ -44,9 +44,9 @@ I began as a full-stack web developer and now I'm focused on **offensive securit
 ---
 
 ### 🎯 Goals
-- Build a public toolkit for red teamers (scripts + docs)
 - Publish ethical writeups showing attack → remediation
 - Contribute to open-source security projects
+- Drown in cyberspace
 
 ---
 
@@ -59,7 +59,9 @@ I began as a full-stack web developer and now I'm focused on **offensive securit
 ---
 
 ### ⚡ Fun fact
-I approach security like art — curiosity, iteration, and a love for creative problem solving.
+
+ᴊᴜꜱᴛ ʙᴇɪɴɢ ᴍʏꜱᴇʟꜰ
+ǝnlɐʌ ǝɔɐɟ ʇɐ sɓuıɥʇ ʇdǝɔɔɐ oʇ ǝsnɟǝɹ oɥʍ ǝldoǝd snoıɹnɔ ʇsnɾ ǝɹɐ sɹǝʞɔɐH
 
 ---
 
