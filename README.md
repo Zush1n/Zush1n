@@ -66,5 +66,5 @@ I began as a full-stack web developer and now I'm focused on **offensive securit
 ---
 
 <p align="center">
-  <small>Profile README — built for red team learning & open-source sharing.</small>
+  <small>Profile README — z4shin — 2025</small>
 </p>
