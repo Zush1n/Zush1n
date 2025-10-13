@@ -4,8 +4,8 @@
 
 ## About
 I started as a full-stack web developer and shifted into **offensive security** and **red team** tradecraft. I build tools, run labs, and practise CTFs to learn how systems break — then translate those lessons into stronger defenses.
-studyng for Ejpt and CRTA
 
+- Studyng for Ejpt and CRTA
 - Currently building: **offensive tooling & recon scripts** (Python)
 - Learning: advanced exploitation, post-exploitation, and threat emulation
 - Labs: TryHackMe, Hack The Box
