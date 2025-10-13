@@ -29,7 +29,7 @@ I began as a full-stack web developer and now I'm focused on **offensive securit
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="36" height="36"/>
   <img src="https://cdn.brandfetch.io/idCqcY6yWr/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1756548499635)" alt="nmap" width="36" height="36"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Wireshark_icon.svg" alt="wireshark" width="36" height="36"/>
+  <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="Burpsuite" width="36" height="36"/>
 </p>
 
 ---
