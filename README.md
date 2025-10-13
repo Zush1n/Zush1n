@@ -30,7 +30,7 @@ I began as a full-stack web developer and now I'm focused on **offensive securit
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="36" height="36"/>
   <img src="https://cdn.brandfetch.io/idCqcY6yWr/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1756548499635)" alt="nmap" width="36" height="36"/>
   <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="Burpsuite" width="36" height="36"/>
-    <img src="[https://imgs .search.brave.com/_N0t1v_QP9Pk0Snrr4knbzZYHrOQKJee5bxh1ze2t2s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nYWxsLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMTUvUmVh/Y3QtTG9nby1QTkct/RmlsZS5wbmc](https://cdn.brandfetch.io/idREYlLkpD/w/400/h/400/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B)" alt="React" width="36" height="36"/>
+     <img src="[https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg](https://cdn.brandfetch.io/idREYlLkpD/w/400/h/400/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B)" alt="Burpsuite" width="36" height="36"/>
  
 </p>
 
