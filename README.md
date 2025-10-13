@@ -27,9 +27,8 @@ I started as a full-stack web developer and shifted into **offensive security** 
 
 ---
 
-## Notable Projects
-- **Lockedu** — education + security awareness.  
-  Repo: [projectLockEdu](https://github.com/MiguelGC97/projectLockEdu)
+## Projects
+
 - **Recon scripts** — Python utilities for host and service enumeration (work in progress).
 - **CTF writeups** — public notebooks documenting techniques and mitigations (coming soon).
 
