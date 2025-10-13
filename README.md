@@ -22,15 +22,7 @@ I started as a full-stack web developer and shifted into **offensive security** 
 
 ## Tools & Tech
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="36" height="36"/>
-  <img src="https://cdn.brandfetch.io/idCqcY6yWr/w/400/h/400/theme/dark/icon.png" alt="nmap" width="36" height="36"/>
-  <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="burpsuite" width="36" height="36"/>
-  <img src="https://cdn.brandfetch.io/idREYlLkpD/w/400/h/400/theme/dark/icon.png" alt="kali" width="36" height="36"/>
-</p>
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="36" height="36"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="36" height="36"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="36" height="36"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="36" height="36"/> <img src="https://cdn.brandfetch.io/idCqcY6yWr/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1756548499635)" alt="nmap" width="36" height="36"/> <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="Burpsuite" width="36" height="36"/> <img src="https://cdn.brandfetch.io/idREYlLkpD/w/400/h/400/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Burpsuite" width="36" height="36"/> </p>
 
 ---
 
