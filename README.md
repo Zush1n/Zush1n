@@ -64,6 +64,10 @@ I started as a full-stack web developer and shifted into **offensive security** 
 
 ---
 
+## Old Projects
+- **Lockedu** — education.  
+  Repo: [projectLockEdu](https://github.com/MiguelGC97/projectLockEdu)
+  
 <p align="center">
   <small>Profile README — z4shin — 2025</small>
 </p>
