@@ -36,14 +36,6 @@ I started as a full-stack web developer and shifted into **offensive security** 
 
 ---
 
-## Operating Principles
-- Build quietly, document clearly.
-- Emulate real adversaries, report like an engineer.
-- Prefer automation, verify manually.
-- Attack paths are stories; good fixes are the epilogue.
-
----
-
 ## Goals
 - Publish ethical writeups mapping attack → detection → remediation
 - Contribute to open-source security projects
@@ -71,5 +63,5 @@ I started as a full-stack web developer and shifted into **offensive security** 
   Repo: [projectLockEdu](https://github.com/MiguelGC97/projectLockEdu)
   
 <p align="center">
-  <small>Profile README — z4shin — 2025</small>
+  <small>Profile README — z4sh14 — 2025</small>
 </p>
